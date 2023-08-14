@@ -3,9 +3,11 @@ Hi! I'm a front-end (hopefully eventually full stack) web developer. I make prog
 
 
 # Fluent Languages
+<p align = 'center'> 
+  <img src = 'javascript.png'>
+</p>
 
-
-# About me
+# Footer
 <p align = 'center'>
   <br>
   <img width = '200px' src = 'https://avatars.githubusercontent.com/u/129548862?v=4)https://avatars.githubusercontent.com/u/129548862?v=4'/> <br> <br>
