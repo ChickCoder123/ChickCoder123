@@ -4,12 +4,12 @@ Hi! I'm a front-end (hopefully eventually full stack) web developer. I make prog
 
 # Fluent Languages
 <p align = 'center'> 
-  <img src = 'javascript.png'>
+  <img width = '50px' alt = 'javascript' src = 'javascript.png'>
 </p>
 
 # Footer
 <p align = 'center'>
   <br>
-  <img width = '200px' src = 'https://avatars.githubusercontent.com/u/129548862?v=4)https://avatars.githubusercontent.com/u/129548862?v=4'/> <br> <br>
+  <img alt = 'logo' width = '200px' src = 'https://avatars.githubusercontent.com/u/129548862?v=4)https://avatars.githubusercontent.com/u/129548862?v=4'/> <br> <br>
   ChickCoder 2023
 </p>
