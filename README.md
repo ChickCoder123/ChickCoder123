@@ -16,6 +16,6 @@ Hi! I'm a front-end (hopefully eventually full stack) web developer. I make prog
 # Footer
 <p align = 'center'>
   <br>
-  <img alt = 'logo' width = '200px' src = 'https://avatars.githubusercontent.com/u/129548862?v=4)https://avatars.githubusercontent.com/u/129548862?v=4'/> <br> <br>
+  <img style = 'border-radius: 50%' alt = 'logo' width = '200px' src = 'https://avatars.githubusercontent.com/u/129548862?v=4)https://avatars.githubusercontent.com/u/129548862?v=4'/> <br> <br>
   ChickCoder 2023
 </p>
