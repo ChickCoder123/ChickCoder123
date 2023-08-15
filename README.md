@@ -1,5 +1,5 @@
 # **ChickCoder**
-Hi! I'm a front-end (hopefully eventually full stack) web developer. I make programs on [Khan Academy](khanacademy.org/profile/websitedeveloper). Have a good day! 😃
+Hi! I'm a front-end (hopefully eventually full stack) web developer. I make programs on [Khan Academy](https://www.khanacademy.org/profile/websitedeveloper). Have a good day! 😃
 
 
 # Fluent Languages
